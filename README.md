@@ -24,9 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=tusharshenoy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tusharshenoy&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharshenoy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=tushar_shenoy_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+ 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tusharshenoy&icon=0&color=1)](https://visitcount.itsvg.in)
