@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharshenoy&label=Profile%20views&color=0e75b6&style=flat" alt="tusharshenoy" /> </p>
 
-- 🔭 I’m currently working on **Diabetic Foot Monitoring**
+- 🔭 I’m currently working on **Diabetic Foot Monitoring device**
 
 - 🌱 I’m currently learning **Python, PCB Designing**
 
