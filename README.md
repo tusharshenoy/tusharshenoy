@@ -11,6 +11,13 @@
 
 - 💬 Ask me about **Electronics, Arduino, MATLAB**
 
+-  🔭 I have worked on
+-   Arduino NANO UNO and MEGA
+-   Raspberry Pi Pico / Pico W
+-   Sensors like Ultrasonic and PIR
+-   Electronic Modules like Bluetooth Module**
+
+
 - 📫 How to reach me **ttusharshenoy@gmail.com**
 
 
