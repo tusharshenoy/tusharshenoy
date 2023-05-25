@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Electronics Enthusiast from India</h3>
 <p align="center"> <img src="https://sdk.bitmoji.com/me/sticker/VcnKW1oaIH5fZuVTrsQFGiATyVeig0bGqzyNqTVZDdfaEI1JIY0Rlg/20079939.png?p=dD1wO3Y9aGk7bD1lbg.v1&size=thumbnail"/></p>
 
-//<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharshenoy&label=Profile%20views&color=0e75b6&style=flat" alt="tusharshenoy" /> </p>
 
 - 🔭 I’m currently working on **Diabetic Foot Monitoring device**
 
