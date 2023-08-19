@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Python, PCB Designing**
 
-- 💬 Ask me about **Electronics, Arduino, MATLAB**
+- 💬 Ask me about **Electronics, Arduino, MATLAB, Vivado**
 
--  🔭 I have worked on Arduino NANO UNO and MEGA, Raspberry Pi Pico / Pico W, Sensors like Ultrasonic and PIR, Electronic Modules like Bluetooth Module**
+-  🔭 I have worked on **Arduino NANO UNO and MEGA, Raspberry Pi Pico / Pico W, Sensors like Ultrasonic and PIR, Electronic Modules like Bluetooth Module**
 
 - 📫 How to reach me **ttusharshenoy@gmail.com**
-- 🔭 Scan Below to Get all My Social Media Handles
-<p align="center"><img src=https://github.com/tusharshenoy/tusharshenoy/assets/107348474/1a6e9776-fc20-4175-bee6-8e1de0b3655d=g/></p>
+ <!--- 🔭 Scan Below to Get all My Social Media Handles
+<p align="center"><img src=https://github.com/tusharshenoy/tusharshenoy/assets/107348474/1a6e9776-fc20-4175-bee6-8e1de0b3655d=g/></p> -->
 
 
 ## 🌐 Socials:
