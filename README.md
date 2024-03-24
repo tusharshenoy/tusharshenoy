@@ -11,7 +11,24 @@
 
 - 💬 Ask me about **Electronics, Arduino, MATLAB, Vivado**
 
--  🔭 I have worked on **Arduino NANO UNO and MEGA, Raspberry Pi Pico / Pico W,ESP8266, Sensors like Ultrasonic and PIR, Electronic Modules like Bluetooth Module**
+- 🔭 I have worked on:
+  - STM8
+  - STM32
+  - Arduino NANO / UNO / MEGA
+  - Raspberry Pi Pico/Pico W
+  - ESP32/8266
+  - Spartan6 FPGA
+
+- Sensors:
+  - Ultrasonic
+  - PIR
+  - IR
+
+- Electronic Modules:
+  - Bluetooth Module
+  - TFT Display
+  - 16x2 LCD Display
+**
 
 - 📫 How to reach me **ttusharshenoy@gmail.com**
  <!--- 🔭 Scan Below to Get all My Social Media Handles
