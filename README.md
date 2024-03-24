@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://sdk.bitmoji.com/me/sticker/VcnKW1oaIH5fZuVTrsQFGiATyVeig0bGqzyNqTVZDdfaEI1JIY0Rlg/20079939.png?p=dD1wO3Y9aGk7bD1lbg.v1&size=thumbnail"/></p>
 
 
-- 🔭 I’m currently working on **Diabetic Foot Monitoring device**
+- 🔭 I’m currently working on **Study of MAX30003 Sensor using LabVIEW**
 
 - 🌱 I’m currently learning **FPGA**
 
@@ -27,7 +27,7 @@
 - Electronic Modules:
   - Bluetooth Module
   - TFT Display
-  - 16x2 LCD Display**
+  - 16x2 LCD Display
 
 - 📫 How to reach me **ttusharshenoy@gmail.com**
  <!--- 🔭 Scan Below to Get all My Social Media Handles
