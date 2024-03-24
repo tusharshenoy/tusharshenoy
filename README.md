@@ -27,8 +27,7 @@
 - Electronic Modules:
   - Bluetooth Module
   - TFT Display
-  - 16x2 LCD Display
-**
+  - 16x2 LCD Display**
 
 - 📫 How to reach me **ttusharshenoy@gmail.com**
  <!--- 🔭 Scan Below to Get all My Social Media Handles
