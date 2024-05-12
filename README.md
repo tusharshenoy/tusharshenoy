@@ -32,8 +32,8 @@
   - LORA
     
  - Bio Sensors
-  - ADS1293
-  - MAX30003 
+   - ADS1293
+   - MAX30003 
 
 - 📫 How to reach me **ttusharshenoy@gmail.com**
  <!--- 🔭 Scan Below to Get all My Social Media Handles
