@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://sdk.bitmoji.com/me/sticker/VcnKW1oaIH5fZuVTrsQFGiATyVeig0bGqzyNqTVZDdfaEI1JIY0Rlg/20079939.png?p=dD1wO3Y9aGk7bD1lbg.v1&size=thumbnail"/></p>
 
 
-- 🔭 I’m currently working on **Study of MAX30003 Sensor using LabVIEW**
+- 🔭 I’m currently working on **Study of ADS1293 Sensor using LabVIEW**
 
 - 🌱 I’m currently learning **FPGA**
 
@@ -23,11 +23,17 @@
   - Ultrasonic
   - PIR
   - IR
+  - LDR
 
 - Electronic Modules:
   - Bluetooth Module
   - TFT Display
   - 16x2 LCD Display
+  - LORA
+    
+ - Bio Sensors
+  - ADS1293
+  - MAX30003 
 
 - 📫 How to reach me **ttusharshenoy@gmail.com**
  <!--- 🔭 Scan Below to Get all My Social Media Handles
