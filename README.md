@@ -18,6 +18,7 @@
   - Raspberry Pi Pico/Pico W
   - ESP32/8266
   - Spartan6 FPGA
+  - DE10 Lite
 
 - Sensors:
   - Ultrasonic
@@ -33,7 +34,8 @@
     
  - Bio Sensors
    - ADS1293
-   - MAX30003 
+   - MAX30003
+   - MAX86150
 
 - 📫 How to reach me **ttusharshenoy@gmail.com**
  <!--- 🔭 Scan Below to Get all My Social Media Handles
