@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://sdk.bitmoji.com/me/sticker/VcnKW1oaIH5fZuVTrsQFGiATyVeig0bGqzyNqTVZDdfaEI1JIY0Rlg/20079939.png?p=dD1wO3Y9aGk7bD1lbg.v1&size=thumbnail"/></p>
 
 
-- 🔭 I’m currently working on **Study of ADS1293 Sensor using LabVIEW**
+- 🔭 I’m currently working on **RTL Projects**
 
 - 🌱 I’m currently learning **FPGA**
 
